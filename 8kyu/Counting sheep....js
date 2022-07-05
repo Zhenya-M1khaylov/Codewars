@@ -7,3 +7,4 @@ function countSheeps(arrayOfSheep) {
     }
     return counter
 }
+
